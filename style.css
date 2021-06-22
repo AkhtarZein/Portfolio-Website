@@ -68,6 +68,7 @@ header {
 
 .head-wrapper {
   width: 1280px;
+  margin: 0 auto;
 }
 
 .head-bg {
@@ -78,7 +79,6 @@ header {
   margin: 0px auto;
   z-index: -1;
   position: absolute;
-  width: 1263px;
   box-shadow: 5px 0px 10px grey;
 }
 
@@ -160,6 +160,7 @@ header {
   border-radius: 18px;
   transition: 1s;
   box-shadow: 3px 4px 10px grey;
+  text-align: center;
 }
 
 .box p {
@@ -171,15 +172,18 @@ header {
 .in1 img {
   width: 60px;
   border-radius: 10px;
+  margin-bottom: 20px;
 }
 
 .in2 img {
   width: 60px;
+  margin-bottom: 20px;
   border-radius: 10px;
 }
 
 .in3 img {
   width: 60px;
+  margin-bottom: 20px;
   border-radius: 10px;
 }
 
